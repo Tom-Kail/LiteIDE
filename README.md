@@ -2,8 +2,8 @@
 
 ##BuildArgs
 
-* Rebuild project and debug\<br>
-¡¡-gcflags "-N -l"
+* Rebuild project and debug<br/>
+  -gcflags "-N -l"
 
-* Build project without debug info\<bt>
-¡¡-ldflags "-s"
+* Build project without debug info<br/>
+ -ldflags "-s"
